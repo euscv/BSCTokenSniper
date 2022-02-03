@@ -377,7 +377,7 @@ For BSCMultiSniper:
 * approveSellTimeDelay (integer): Time in seconds to wait until bot will try to attempt approve transaction for selling. Recommended to leave at default.
 
 * observeOnly (True/False): Allows you to see how the bot detects new token. Recommended to leave at default.
-
+ 
 * enableMiniAudit (True/False): Allows you to enable/disable mini audit. Highly recommended to enable or you will most likely be buying scam tokens.
 
 - The following options are related to the mini audit feature:
